@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    e2mmap (0.1.0)
+    thwait (0.2.0)
+      e2mmap
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  thwait
+
+BUNDLED WITH
+   2.1.4
